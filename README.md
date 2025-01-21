@@ -95,22 +95,6 @@ python quickstart.py
 - **`chain.py`**: Defines a chain to generate a joke and analyze whether it is funny.
 - **`memory.py`**: Implements a conversation chain that remembers previous queries.
 
-## Contributing
-
-We welcome contributions! If you'd like to improve this project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-name`).
-3. Make your changes and commit them (`git commit -am 'Add feature'`).
-4. Push to the branch (`git push origin feature-name`).
-5. Create a new Pull Request.
-
-Please ensure that your changes do not break existing functionality and include tests where appropriate.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - **LangChain**: A powerful framework for building LLM-powered applications.
