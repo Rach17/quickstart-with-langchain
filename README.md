@@ -73,7 +73,6 @@ To interact with the Cohere API, you'll need an API key. Follow these steps:
 
 ```env
 COHERE_API_KEY=your_api_key_here
-COHERE_DEFAULT_API_KEY=your_api_key_here
 ```
 
 ### 6. Run the Scripts
