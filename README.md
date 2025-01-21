@@ -28,7 +28,7 @@ The following Python packages are required to run the project:
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/quickstart-with-langchain.git
+git clone https://github.com/Rach17/quickstart-with-langchain.git
 cd quickstart-with-langchain
 ```
 
